@@ -1,0 +1,22 @@
+{
+  "name": "shipt_qa_interview",
+  "version": "1.0.0",
+  "description": "Shipt QA Interview Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "wdio",
+    "selser": "selenium-standalone"
+  },
+  "repository": {
+    "type": "git",
+    "url": " "
+  },
+  "author": "Shilpa",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "selenium-standalone": "^6.12.0",
+    "wdio-mocha-framework": "^0.5.12",
+    "webdriverio": "^4.10.1"
+  }
+}
